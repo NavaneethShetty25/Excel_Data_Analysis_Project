@@ -1,10 +1,12 @@
 # Excel_Data_Analysis_Project
 Modern Store Annual Report
 
-Objective														
+Objective:
+
 Modern store wants to create an annual sales report for 2022. So that, Modern store can understand their customers and grow more sales in 2023 														
 														
-Sample insights															
+Sample insights:
+
 1) Women are more likely to purchase more compared to men (~65%)															
 2) Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)															
 3) Adult age group (30-49 yrs) is max contributing to sales (~50%)															
