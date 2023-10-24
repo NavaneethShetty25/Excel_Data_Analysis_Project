@@ -15,3 +15,4 @@ Sample insights:
 Final conclusiom to improve Modern store sales:															
 *Target women customers of age group (30-40 yrs) living in Maharastra, Karnataka, Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.															
 
+![image](https://github.com/NavaneethShetty25/Excel_Data_Analysis_Project/assets/137690434/1406cbf3-1ce7-43aa-be0b-e256048ac32c)
